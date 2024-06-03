@@ -8,14 +8,14 @@ I have 2 years of experience in Programming sector. Already I have completed man
 
 My services are: 
 
-✔️ HTML
-✔️ CSS
-✔️ Tailwind CSS
-✔️ JavaScript
-✔️ React
-✔️ Git
-✔️ Github
-✔️ Firebase Authentication
+✔️ HTML </br>
+✔️ CSS </br>
+✔️ Tailwind CSS </br>
+✔️ JavaScript </br>
+✔️ React </br>
+✔️ Git </br>
+✔️ Github </br>
+✔️ Firebase Authentication </br>
 
 If you looking for a React Developer who will create a website user friendly, faster, looks beautiful and responsive for all device? you are the right place. I will create your website according to your instruction. And you will get advise that Which will be bad or which will better for your website. As you can see I am a react developer. React is a most popular framework for web. Basically specialist of React that React website is load onetime. Then if you navigate any page by using any buttons and links, It won't be load anymore, which quality makes faster, user friendly. And also will be use Tailwind CSS for faster. Because tailwind CSS is a CSS framework that it helps shorter to row CSS. In my opinion Tailwind CSS is the best, as CSS framework. Must should be use it on your website. That's why your website will be looks beautiful, faster, user friendly and responsive for all devices. And will be what kind of website you want.
 
