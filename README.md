@@ -1,12 +1,13 @@
 ### Hi there 👋, my name is Hejbul Rahman Tasin
-#### I am web Developer and Dgital Marketing Expert
+
 ![I am web Developer and Dgital Marketing Expert](https://i.ibb.co/Y04wJZF/Github-banner.png)
 
-I am a Front-End-Developer(Specific React Developer).
-I have 2 years of experience in Programming sector. Already I have completed many work outside of up work. You can check my portfolio for better understanding my work. And read my skills which I given down. Click More
+### I am web Developer and Dgital Marketing Expert.
+
+I am a Front-End-Developer(Specific React Developer). I have 2 years of experience in Programming sector. Already I have completed many work outside of up work. You can check my portfolio for better understanding my work. And read my skills which I given down. Click More
 
 
-My services are: 
+### My services are: 
 
 ✔️ HTML </br>
 ✔️ CSS </br>
@@ -35,12 +36,12 @@ Skills: JavaScript / REACT JS / Git/Github / HTML / CSS / Tailwind
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dmhejbulrahman)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmhejbulrahman)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmhejbulrahman&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="dmhejbulrahman's GitHub Stats" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dmhejbulrahman&show_icons=true)  
+<img src="https://github-readme-stats.vercel.app/api?username=dmhejbulrahman&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="dmhejbulrahman's GitHub Stats" />
 
-![GitHub metrics](https://metrics.lecoq.io/dmhejbulrahman)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=dmhejbulrahman)  
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dmhejbulrahman&theme=tokyonight&hide_border=true" alt="dmhejbulrahman's GitHub Stats" />
 
 
