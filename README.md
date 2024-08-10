@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Hejbul Rahman Tasin
 
-![I am web Developer and Dgital Marketing Expert](https://i.ibb.co/Y04wJZF/Github-banner.png)
+![I am web Developer and Dgital Marketing Expert](https://ibb.co/7zXmXss)
 
 ### I am web Developer and Dgital Marketing Expert.
 
