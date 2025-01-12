@@ -20,11 +20,6 @@
   <img height="150" src="https://media.giphy.com/media/OLPQ6z2hlHmwFc4Hso/giphy.gif?cid=ecf05e47djgpi4e9y5q0q8c3w1uiat77adyibqggbcm1dj4a&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/wdhejbul/wdhejbul/output/snake.svg" alt="Snake animation" />
 
 ###
 
